@@ -1,0 +1,288 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon(TM) R7 M360 (ID=0x6900)
+    Vendor:   ATI
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Github\Unity\TankWarZone\run_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Github\Unity\TankWarZone\run_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Github\Unity\TankWarZone\run_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Github\Unity\TankWarZone\run_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Github\Unity\TankWarZone\run_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Github\Unity\TankWarZone\run_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Github\Unity\TankWarZone\run_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Github\Unity\TankWarZone\run_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Github\Unity\TankWarZone\run_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\Github\Unity\TankWarZone\run_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: F:\Github\Unity\TankWarZone\run_Data\Managed\App42_Unity3D_SDK_2.9.1.dll (this message is harmless)
+Loading F:\Github\Unity\TankWarZone\run_Data\Managed\App42_Unity3D_SDK_2.9.1.dll into Unity Child Domain
+Platform assembly: F:\Github\Unity\TankWarZone\run_Data\Managed\AppWarpUnity.dll (this message is harmless)
+Loading F:\Github\Unity\TankWarZone\run_Data\Managed\AppWarpUnity.dll into Unity Child Domain
+- Completed reload, in  0.072 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: F:\Github\Unity\TankWarZone\run_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Github\Unity\TankWarZone\run_Data\Managed\System.dll (this message is harmless)
+MainMenu is on
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 180b8 -> priority: 1 
+MultiPlayer is on
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.300640 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 367.
+Total: 0.354953 ms (FindLiveObjects: 0.033784 ms CreateObjectMapping: 0.026514 ms MarkObjects: 0.265146 ms  DeleteObjects: 0.029080 ms)
+
+Moshe276996
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+apiKey f1ea6bce5d045203c2c346f9108e7f0ea592bd7b12c219a8db3fc8c4c714ccc8
+secretKey c5e455877837775eb9a0d5a85f6cc9fbf513f111680defa97deaa361e4d1a2c7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Connecting to Appwrap...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+ClientChannel Connect
+Sign
+SortAndConvertTableToString
+apiKey
+apiKeyf1ea6bce5d045203c2c346f9108e7f0ea592bd7b12c219a8db3fc8c4c714ccc8timeStamp1446035714userMoshe276996versionWP_1.4
+ComputeHmac
+signature: EenuofKL19rwsrHGDjyF1QScT8Y=
+value: EenuofKL19rwsrHGDjyF1QScT8Y%3D
+Connected!
+onConnectToAppWarp 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+OnGetMatchedRoomsDone : 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Room ID:1699598728, Moshe7697280
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+OnGetLiveRoomInfo 0 1699598728 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Joined room 1699598728
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+OnJoinToRoom 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Joined Room! 1699598728
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+OnGameStarted, sender: Moshe7697280, roomId: 1699598728, nextTurn: Moshe7697280, userName: One
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Data: {"bulletSpeedForJson":18700,"bulletAngleForJson":51,"tankPositionForJsonX":151.35202,"tankPositionForJsonY":115.239059,"tankPositionForJsonZ":2.38822436}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+OnMoveCompleted, Next turn: Moshe276996, Data: {"bulletSpeedForJson":18700,"bulletAngleForJson":51,"tankPositionForJsonX":151.35202,"tankPositionForJsonY":115.239059,"tankPositionForJsonZ":2.38822436} current Time: 7.729121
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+OpponentLogic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+51
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+18700
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+one
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Fire
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+from fire : (306.9, 135.3, 2.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+PlayerLogic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Data: {"bulletSpeedForJson":16900,"bulletAngleForJson":-47,"tankPositionForJsonX":306.9137,"tankPositionForJsonY":135.27739,"tankPositionForJsonZ":2.3865993}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+OnMoveCompleted, Next turn: Moshe7697280, Data: {"bulletSpeedForJson":16900,"bulletAngleForJson":-47,"tankPositionForJsonX":306.9137,"tankPositionForJsonY":135.27739,"tankPositionForJsonZ":2.3865993} current Time: 16.08159
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Data: {"bulletSpeedForJson":21700,"bulletAngleForJson":51,"tankPositionForJsonX":153.82402,"tankPositionForJsonY":116.135384,"tankPositionForJsonZ":2.387674}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+OnMoveCompleted, Next turn: Moshe276996, Data: {"bulletSpeedForJson":21700,"bulletAngleForJson":51,"tankPositionForJsonX":153.82402,"tankPositionForJsonY":116.135384,"tankPositionForJsonZ":2.387674} current Time: 22.30145
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+OpponentLogic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+51
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+21700
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+one
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Fire
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+from fire : (306.9, 135.3, 2.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+PlayerLogic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Data: {"bulletSpeedForJson":16900,"bulletAngleForJson":-47,"tankPositionForJsonX":306.9137,"tankPositionForJsonY":135.27739,"tankPositionForJsonZ":2.3865993}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+OnMoveCompleted, Next turn: Moshe7697280, Data: {"bulletSpeedForJson":16900,"bulletAngleForJson":-47,"tankPositionForJsonX":306.9137,"tankPositionForJsonY":135.27739,"tankPositionForJsonZ":2.3865993} current Time: 28.5681
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Data: {"bulletSpeedForJson":19500,"bulletAngleForJson":51,"tankPositionForJsonX":167.972412,"tankPositionForJsonY":120.271484,"tankPositionForJsonZ":2.38070822}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+OnMoveCompleted, Next turn: Moshe276996, Data: {"bulletSpeedForJson":19500,"bulletAngleForJson":51,"tankPositionForJsonX":167.972412,"tankPositionForJsonY":120.271484,"tankPositionForJsonZ":2.38070822} current Time: 34.07381
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+OpponentLogic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+51
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+19500
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+one
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Fire
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+from fire : (306.9, 135.3, 2.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+PlayerLogic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Data: {"bulletSpeedForJson":16900,"bulletAngleForJson":-47,"tankPositionForJsonX":306.9137,"tankPositionForJsonY":135.27739,"tankPositionForJsonZ":2.3865993}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+OnMoveCompleted, Next turn: Moshe7697280, Data: {"bulletSpeedForJson":16900,"bulletAngleForJson":-47,"tankPositionForJsonX":306.9137,"tankPositionForJsonY":135.27739,"tankPositionForJsonZ":2.3865993} current Time: 39.95769
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Data: {"bulletSpeedForJson":19500,"bulletAngleForJson":51,"tankPositionForJsonX":171.390732,"tankPositionForJsonY":120.78878,"tankPositionForJsonZ":2.379981}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+OnMoveCompleted, Next turn: Moshe276996, Data: {"bulletSpeedForJson":19500,"bulletAngleForJson":51,"tankPositionForJsonX":171.390732,"tankPositionForJsonY":120.78878,"tankPositionForJsonZ":2.379981} current Time: 45.91318
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+OpponentLogic
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+51
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+19500
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+one
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+hit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+WinnerMenu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.740840 ms
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 217.
+Total: 0.566215 ms (FindLiveObjects: 0.037205 ms CreateObjectMapping: 0.013684 ms MarkObjects: 0.274554 ms  DeleteObjects: 0.239914 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.519600 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 427.
+Total: 0.376763 ms (FindLiveObjects: 0.020099 ms CreateObjectMapping: 0.013257 ms MarkObjects: 0.333998 ms  DeleteObjects: 0.008980 ms)
+
+MainMenu is on
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
